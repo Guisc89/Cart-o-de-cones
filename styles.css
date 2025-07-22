@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "courier new", monospace;
-    color: #413642;
+    color: #000000;
 }
 body {
     min-height: 100vh;
@@ -16,12 +16,64 @@ body {
 .card{
     width: 300px;
     height: 400px;
-    background-color: #ffffff;
+    background-color: #d4d4d4;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(137, 136, 136, 0.529);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
+.card, .profile-image, .fab, .contact-button {
+    box-shadow: -0.1rem 0.1rem 0.3rem #000000;
+    transition: transform 0.3s ease;
+}
+.profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.title {
+   font-size: x-large;
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+.social-icons {
+    margin-top: 1rem;
+   
+}
+.fab {
+    height: 2rem;
+    width: 2rem;
+    padding: 0.5rem;
+    border-radius: 50%;
+    text-align: center;
+    border: 2px solid #ffffff; /* Adiciona borda ao botão */
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: url('profile-image.jpg'); /* nome do arquivo da imagem */
+    background-size: cover;
+    background-position: center;
+}
+
+.contact-button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #ffffff00;
+    color: #000000;
+    border: 1px solid #f6f6f6;
+    cursor: pointer;
+}
+.fab:hover, .contact-button:hover {
+    transform: translateY(-0.1rem);
+    box-shadow: 0.1rem -0.1rem 0.3rem #000000
+}
