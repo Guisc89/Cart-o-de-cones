@@ -10,8 +10,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(image-purple.jpg); /* essa imagem baixei para deixar o background mais bonito */
     background-color: #000000;
-    
+    background-size: cover;
+    background-position: center;
 }
 .card{
     width: 300px;
