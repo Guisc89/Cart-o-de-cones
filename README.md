@@ -4,7 +4,7 @@ Este projeto é um cartão de perfil pessoal desenvolvido com HTML5 e CSS3, idea
 
 
 👨‍💻 Sobre o projeto
-O Cartão com Ícones é um mini projeto front-end feito por mim, Guilherme Cardoso, como parte do meu processo de aprendizado em desenvolvimento web. A ideia é reunir as principais informações de contato de forma visual e interativa — perfeito para usar como assinatura digital, cartão de visita online ou até como capa de portfólio.
+O Cartão com Ícones é um mini projeto front-end feito por mim, como parte do meu processo de aprendizado em desenvolvimento web. A ideia é reunir as principais informações de contato de forma visual e interativa — perfeito para usar como assinatura digital, cartão de visita online ou até como capa de portfólio.
 
 🔧 Tecnologias Utilizadas
 HTML5
@@ -15,7 +15,7 @@ FontAwesome (CDN)
 
 📸 Prévia do Layout
 Você pode ver a versão online aqui:
-👉 Veja o cartão publicado no GitHub Pages
+👉  [Veja o cartão publicado no GitHub Pages] (https://guisc89.github.io/Cart-o-de-cones/)
 
 🧠 O que você vai encontrar aqui:
 Estrutura semântica e acessível com HTML
