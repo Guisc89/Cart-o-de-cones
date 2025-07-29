@@ -14,7 +14,6 @@ CSS3
 FontAwesome (CDN)
 
 📸 Prévia do Layout
-Você pode ver a versão online aqui:
 👉  [Veja o cartão publicado no GitHub Pages] (https://guisc89.github.io/Cart-o-de-cones/)
 
 🧠 O que você vai encontrar aqui:
